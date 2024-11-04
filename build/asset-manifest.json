@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aravindportfolio/static/css/main.d85351b7.css",
+    "main.js": "/aravindportfolio/static/js/main.7db954da.js",
+    "static/js/453.235e154e.chunk.js": "/aravindportfolio/static/js/453.235e154e.chunk.js",
+    "static/media/projects3.png": "/aravindportfolio/static/media/projects3.7122a9c61b0b81e7d970.png",
+    "static/media/projects5.png": "/aravindportfolio/static/media/projects5.7012bb6e80458c164363.png",
+    "static/media/Img.png": "/aravindportfolio/static/media/Img.5033de9df250c897c1be.png",
+    "static/media/projects.png": "/aravindportfolio/static/media/projects.cf56e633957e7793528f.png",
+    "static/media/projects2.png": "/aravindportfolio/static/media/projects2.5633d29c52630934c8e6.png",
+    "static/media/projects4.png": "/aravindportfolio/static/media/projects4.349f55fc9fd7e9e740dc.png",
+    "static/media/capcut.png": "/aravindportfolio/static/media/capcut.d7d84189f4dc0e52faa5.png",
+    "static/media/davinci.png": "/aravindportfolio/static/media/davinci.72afc9108e887193deca.png",
+    "static/media/xd.png": "/aravindportfolio/static/media/xd.aae044bd78f1cc158453.png",
+    "static/media/figma.png": "/aravindportfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/photoshop.png": "/aravindportfolio/static/media/photoshop.e05ad40f70309e34ffd7.png",
+    "static/media/illustrator.png": "/aravindportfolio/static/media/illustrator.c610dc7058bade13a39d.png",
+    "index.html": "/aravindportfolio/index.html",
+    "main.d85351b7.css.map": "/aravindportfolio/static/css/main.d85351b7.css.map",
+    "main.7db954da.js.map": "/aravindportfolio/static/js/main.7db954da.js.map",
+    "453.235e154e.chunk.js.map": "/aravindportfolio/static/js/453.235e154e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85351b7.css",
+    "static/js/main.7db954da.js"
+  ]
+}

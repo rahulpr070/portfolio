@@ -1,0 +1,129 @@
+.lineup-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    color: #333333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .subtitle {
+    font-size: 1.4rem;
+    color: #555;
+    margin-top: 20px;
+  }
+  
+  .subtitle2 {
+    font-size: 1.2rem;
+    color: #00A6DC;
+    margin-top: 20px;
+  }
+
+  .description {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .image-placeholder {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+    background-color: #ddd;
+    margin: 20px auto;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  .image-large {
+    display: block;
+    width: 100%;
+    margin:10px 0px;
+    /* padding: 10px; */
+    /* background-color: #ddd; */
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  .image-small {
+    display: block;
+    width: 10%;
+    
+    /* padding: 10px; */
+    /* background-color: #ddd; */
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .link {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  .fraunces{
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: bold;
+    font-variation-settings:
+      "SOFT" 0,
+      "WONK" 0;
+  }
+  .playfair{
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: bold;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  .font24{
+    font-size: 40px;
+  }
+  .font20{
+    font-size: 16px;
+    color: #333333;
+  }
+  
+ 
+  .lora {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: bold;
+  }
+  .fredoka {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 98.5;
+  }
+  
+  .fredokabold {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: bold;
+    font-variation-settings:
+      "wdth" 98.5;
+  }
+  .fredokamedium {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: medium;
+    font-variation-settings:
+      "wdth" 98.5;
+  }
+  
+ 
