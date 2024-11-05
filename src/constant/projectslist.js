@@ -14,7 +14,7 @@ export const projectData = [
         name2:"Led UX and UI design of an AI-based news app, tailored to be user-friendly for a diverse range of users.",
         lang2: 'Illustartor',
         lang1: 'Figma',
-        sitelink: './projects/aim'
+        sitelink: 'projects/aim'
     },
     {
         Image: image2,

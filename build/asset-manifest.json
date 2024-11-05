@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rahulprportfolio/static/css/main.649eb016.css",
-    "main.js": "/rahulprportfolio/static/js/main.2447bea7.js",
-    "static/js/453.61843ed7.chunk.js": "/rahulprportfolio/static/js/453.61843ed7.chunk.js",
+    "main.js": "/rahulprportfolio/static/js/main.10b040b3.js",
+    "static/js/453.41fa5c90.chunk.js": "/rahulprportfolio/static/js/453.41fa5c90.chunk.js",
     "static/media/Frame 7897.png": "/rahulprportfolio/static/media/Frame 7897.92f0520d8c5d3be6754a.png",
     "static/media/andwemet logo.jpg": "/rahulprportfolio/static/media/andwemet logo.ee131838b7889c9b5cb5.jpg",
     "static/media/aim.jpg": "/rahulprportfolio/static/media/aim.20a3567e6a478b8a2371.jpg",
@@ -26,11 +26,11 @@
     "static/media/illustrator.png": "/rahulprportfolio/static/media/illustrator.c610dc7058bade13a39d.png",
     "index.html": "/rahulprportfolio/index.html",
     "main.649eb016.css.map": "/rahulprportfolio/static/css/main.649eb016.css.map",
-    "main.2447bea7.js.map": "/rahulprportfolio/static/js/main.2447bea7.js.map",
-    "453.61843ed7.chunk.js.map": "/rahulprportfolio/static/js/453.61843ed7.chunk.js.map"
+    "main.10b040b3.js.map": "/rahulprportfolio/static/js/main.10b040b3.js.map",
+    "453.41fa5c90.chunk.js.map": "/rahulprportfolio/static/js/453.41fa5c90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.649eb016.css",
-    "static/js/main.2447bea7.js"
+    "static/js/main.10b040b3.js"
   ]
 }
