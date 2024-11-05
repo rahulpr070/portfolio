@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/rahulprportfolio" element={<Home />} />
          {/* Projects with common layout */}
          <Route path="projects" element={<ProjectsLayout />}>
          <Route path="floridacorp" element={<FloridCorpProject />} />
