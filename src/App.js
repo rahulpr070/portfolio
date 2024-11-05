@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import ProjectsLayout from './components/projects/ProjectLayout';
 import  FloridCorpProject from   './components/projects/floridacorp/floridacorp.js';
 import  AndwemetProject from   './components/projects/andwemet/andwemet.js';
@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/rahulprportfolio" element={<Home />} />
+        <Route path="/" element={<Home />} />
          {/* Projects with common layout */}
          <Route path="projects" element={<ProjectsLayout />}>
          <Route path="floridacorp" element={<FloridCorpProject />} />
