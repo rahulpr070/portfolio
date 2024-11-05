@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.649eb016.css",
-    "main.js": "/portfolio/static/js/main.960c529d.js",
+    "main.css": "/portfolio/static/css/main.e7cc5672.css",
+    "main.js": "/portfolio/static/js/main.63d174ec.js",
     "static/js/453.41fa5c90.chunk.js": "/portfolio/static/js/453.41fa5c90.chunk.js",
     "static/media/Frame 7897.png": "/portfolio/static/media/Frame 7897.92f0520d8c5d3be6754a.png",
     "static/media/andwemet logo.jpg": "/portfolio/static/media/andwemet logo.ee131838b7889c9b5cb5.jpg",
@@ -25,12 +25,12 @@
     "static/media/photoshop.png": "/portfolio/static/media/photoshop.e05ad40f70309e34ffd7.png",
     "static/media/illustrator.png": "/portfolio/static/media/illustrator.c610dc7058bade13a39d.png",
     "index.html": "/portfolio/index.html",
-    "main.649eb016.css.map": "/portfolio/static/css/main.649eb016.css.map",
-    "main.960c529d.js.map": "/portfolio/static/js/main.960c529d.js.map",
+    "main.e7cc5672.css.map": "/portfolio/static/css/main.e7cc5672.css.map",
+    "main.63d174ec.js.map": "/portfolio/static/js/main.63d174ec.js.map",
     "453.41fa5c90.chunk.js.map": "/portfolio/static/js/453.41fa5c90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.649eb016.css",
-    "static/js/main.960c529d.js"
+    "static/css/main.e7cc5672.css",
+    "static/js/main.63d174ec.js"
   ]
 }
