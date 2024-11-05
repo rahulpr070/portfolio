@@ -44,7 +44,7 @@ export default function Header() {
     >
       <div className="w-full logo px-5 py-5 flex items-center justify-between gap-3">
         <div className="flex items-center gap-">
-        {/* <img src={logo} class="w-20 pl-1" alt="logo" /> */}
+        <img src={logo} class="w-20 pl-1" alt="logo" />
         
         </div>
 

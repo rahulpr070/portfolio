@@ -25,7 +25,7 @@ export default function Hero() {
 
           <h2 className="md:text-5xl  text-3xl font-bold  md:leading-[1.2]">
             <span class="bg-clip-text text-[#131826] dark:bg-white bg-gradient-to-r from-fuchsia-500 via-red-400 to-amber-400 fredokamedium">
-              Rahul here, I am an UI / UX DESIGNER and a tech enthusiast based in India. {" "} 
+              Rahul here, I am an UI /sssss UX DESIGNER and a tech enthusiast based in India. {" "} 
             </span>
           </h2>
           { <h2 className="md:text-xl font-serif text-xl font-medium dark:text-[#edf1ff] text-[#131826] md:leading-[1.2]   px-5 md:px-0 fredoka">
