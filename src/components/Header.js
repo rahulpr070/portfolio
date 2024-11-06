@@ -44,7 +44,7 @@ export default function Header() {
     >
       <div className="w-full logo px-5 py-5 flex items-center justify-between gap-3">
         <div className="flex items-center gap-">
-        <img src={logo} class="w-20 pl-1" alt="logo" />
+        <img src={logo} class="w-7 pl-1" alt="logo" />
         
         </div>
 
@@ -63,7 +63,7 @@ export default function Header() {
       {/* desktop view  */}
       <ul className="hidden lg:flex items-center gap-8 text-[131826] dark:text-[#1C1C22] bg-black md:bg-transparent relative top-0">
         {navLink?.map((links) => (
-           <a href={links.link}  className={`py-[6px] px-3 rounded-md my-3 font-[500] font-serif text-md `} onClick={()=>dispatch(switchLink(links.link))}>{links.name} </a>
+           <a href={links.link}  className={`py-[6px] px-3 rounded-md my-3 font-[500] fredokaregular text-md `} onClick={()=>dispatch(switchLink(links.link))}>{links.name} </a>
         ))}
         <li className="hidden lg:flex">
         <Switcher />

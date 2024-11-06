@@ -11,7 +11,7 @@ const masonryBreakpoints = {
 
 const selectProjetcs = () => {
   return (
-    <div id="projects" className="masonry-container  bg-[#fff9eb]">
+    <div id="projects" className="masonry-container  bg-[#fff9eb] dark:bg-[#161310]">
       <h2 className="title fredokamedium dark:text-[#fff9eb]">Best Projects</h2>
       <Masonry
         breakpointCols={masonryBreakpoints}
@@ -22,11 +22,11 @@ const selectProjetcs = () => {
           <div key={project.id} className="masonry-item custom-margin dark:bg-[#161310] bg-[#161310] text-[#131826] dark:text-[#fff9eb]">
             <a href={project.sitelink} target="_blank" rel="noopener noreferrer">
             <img className="bordercard" src={project.Image} alt={`Image of ${project.name}`} />
-            <h3 className="fredokaregular font24 mt-10">{project.name}</h3>
+            <h3 className="fredokaregular font24 mt-3 lh-normal">{project.name}</h3>
               <p className="fredoka font20">{project.name2}</p>
               <div className="languages fredoka">
-                <span>{project.lang1}</span>
-                <span>{project.lang2}</span>
+                <span className="border-class">{project.lang1}</span>
+                <span className="border-class">{project.lang2}</span>
               </div>
              
               

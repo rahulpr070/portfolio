@@ -2,8 +2,8 @@ import { skillList } from "../constant/skilllist";
 
 const About = () => {
   return (
-    <div className="relative pb-5  pt-16 lg:pt-8 bg-[#ffffff] dark:bg-white" id="about">
-      <div className="flex flex-col xl:px-52 lg:px-28 md:px-16 px-5 md:pt-16  bbg-[#ffffff]  dark:bg-white">
+    <div className="relative pb-5    bg-[#ffffff] " id="about">
+      <div className="flex flex-col xl:px-52 lg:px-28 md:px-16 px-5 md:pt-16 bg-[#fff9eb] dark:bg-[#161310]">
         {/* <div>
           <img
             className="w-[17rem] m-auto md:w-[23rem] lg:w-full mb-5 md:mb-0"
